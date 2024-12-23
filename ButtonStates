@@ -2,7 +2,7 @@
     "buttons": [
         { "id": "button1", "state": 0 },
         { "id": "button2", "state": 0 },
-        { "id": "button3", "state": 0 },
-        { "id": "button4", "state": 0 }
+        { "id": "button3", "state": 1 },
+        { "id": "button4", "state": 1 }
     ]
 }
